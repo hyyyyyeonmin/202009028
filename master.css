@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.box1{height: 1600px;
+
+background-repeat: no-repeat;
+background-size: cover;}
+.box2{height: 874px;
+ 
+    background-repeat: no-repeat;
+    background-size: cover;}
+.box3{height: 866px;
+  
+    background-repeat: no-repeat;
+    background-size: cover;}
+.box4{height: 866px;
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center}
+.box5{height: 214px;
+background-color: #CAEEFF;}
+
+
+.align_ct{display: flex;
+justify-content: center;}
